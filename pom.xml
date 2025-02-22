@@ -9,10 +9,17 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>dio</groupId>
+<<<<<<< HEAD
 	<artifactId>Introducao-Spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Introducao-a-Spring-Framework-com-Spring-Boot</name>
 	<description>primeiros passos com  Spring Boot</description>
+=======
+	<artifactId>Scopes-de-Beans-e-Autowiring</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Scopes-de-Beans-e-Autowiring</name>
+	<description>exercicios para fixar sobre Scopes de Beans e Autowiring</description>
+>>>>>>> 0944076 (Add Person bean configuration with Singleton and Prototype scopes)
 	<url/>
 	<licenses>
 		<license/>
